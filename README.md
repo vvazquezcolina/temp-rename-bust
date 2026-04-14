@@ -10,7 +10,7 @@ Cancún, México · remote-first · digital nomad
 
 ## How I got here
 
-I landed at **Mandala Group** in 2019 as Ecommerce & Web Manager after an E-Commerce Data Analyst role at Amstar DMC and an international stint in Dubai at Meshico Group. The foundation I brought in — SEO-driven visibility, e-commerce KPIs, CRM automation learned at SevenRooms, and a workflow-optimization mindset — let me own the entire digital stack from day one: **seven nightlife brands, five Mexican cities**, SEO, Meta and Google Ads, CRO, reporting, product and event uploads, and the cross-team coordination between marketing, IT, design and paid media. A full site relaunch paired with an overhauled campaign structure delivered **+92 % annual online sales**.
+I landed at **Mandala Group** in 2019 as Ecommerce & Web Manager after an E-Commerce Data Analyst role at Amstar DMC and an international stint in Dubai at Meshico Group. The foundation I brought in — SEO-driven visibility, e-commerce KPIs, CRM automation learned at SevenRooms, and a workflow-optimization mindset — let me own the entire digital stack from day one: SEO, Meta and Google Ads, CRO, reporting, product and event uploads, and the cross-team coordination between marketing, IT, design and paid media, all running across the group's full nightlife portfolio — brands in **five Mexican cities** (including **Tehmplo Tulum**, home of the **Solomun residency**) and additional venues in **Madrid**. A full site relaunch paired with an overhauled campaign structure delivered **+92 % annual online sales**.
 
 Within a couple of years I hit the ceiling of what a single operator can do by hand. Every month was the same reports, the same uploads, the same WhatsApp inquiries, the same handoffs. That's when I started looking for **new ways to solve it** — first spreadsheets and cron jobs, then internal tooling, and eventually AI-driven automations running on our own infrastructure. I built an AI WhatsApp agent for first-touch customer service, migrated monthly reporting into a Google Sheets pipeline, consolidated eight brand sites into a Turborepo, and shipped per-venue sales dashboards backed by our own API.
 
@@ -20,7 +20,7 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 ## Automations & internal tools I've shipped at Mandala Group
 
-- **Mandala WhatsApp Agent + CRM** — AI customer-service bot built on **Grok (x.ai)** and **Claude**, with a **React / Vite dashboard**, a **Go WhatsApp bridge** and three SQLite databases. Dual-mode *(auto / drafts-for-review)*, handling nightlife inquiries across seven brands and five cities. Primary channel for first-touch customer service.
+- **Mandala WhatsApp Agent + CRM** — AI customer-service bot built on **Grok (x.ai)** and **Claude**, with a **React / Vite dashboard**, a **Go WhatsApp bridge** and three SQLite databases. Dual-mode *(auto / drafts-for-review)*, handling nightlife inquiries across the group's full brand portfolio in Mexico and Madrid. Primary channel for first-touch customer service.
 - **Mandala CMS Monorepo** — Turborepo hosting **eight brand sites** (Mandala Beach, Bonbonniere, La Vaquita, Rakata, and more) deployed to Vercel via **GitHub Actions**, designed around a team-level block that prevented direct git-based Vercel pushes.
 - **Blog MandalaTickets** — **442 statically-generated pages**, 100 articles, six categories per destination, four languages (ES/EN/FR/PT). Built on Next.js SSG for both search-engine indexing and AI-crawl readability.
 - **Venue sales dashboards** — Per-venue reports (Vagalume Tulum, Bonbonniere, Bagatelle) pulling live from the MandalaTickets API, replacing a manual pivot-table process.
@@ -83,6 +83,7 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 ## Education
 
+- **Diplomado en Alta Dirección y Gestión Estratégica** — Universidad Anáhuac Cancún *(Feb 2026)*
 - **MBA & Máster en Digital Business** — ENEB, Escuela de Negocios Europea de Barcelona *(2025)*
 - **Ing. Innovación y Desarrollo Empresarial** — Universidad Tecnológica de Cancún *(2014–2017)*
 - **Business & International Marketing** — Haute École de la Province de Liège, Belgium *(2015–2016, exchange)*
@@ -91,9 +92,6 @@ That body of automation work is what got me promoted in **December 2025** to **T
 ---
 
 ## Certifications
-
-**Executive education**
-- **Diplomado en Alta Dirección y Gestión Estratégica** — Universidad Anáhuac Cancún *(Feb 2026)*
 
 **Selected highlights**
 - Introduction to Model Context Protocol — **Anthropic**
