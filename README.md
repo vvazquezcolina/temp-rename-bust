@@ -1,4 +1,4 @@
-# Victor Vazquez 
+# Victor Vazquez
 
 **Ecommerce & Web Manager** · **Tech Innovation & Project Management** · **Workflow Optimization** · **Vibe Coding Enthusiast**
 
