@@ -1,4 +1,4 @@
-## Hi, I'm Victor Vazquez
+## Hi, I'm Victor Vazquez 
 
 **A marketer who builds with AI.** Digital strategist at [MandalaTickets](https://mandalatickets.com), founder of [ACID MKT](https://acidmkt.com), based in Cancún, Mexico.
 
