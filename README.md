@@ -30,12 +30,13 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 ---
 
-## Side builds
+## Side work
 
+- **[ACID MKT](https://www.acidmkt.com/)** *(my own agency, Cancún · founded 2020)* — Digital marketing studio serving clients nationally across Mexico (web, SEO, branding, social media). Full portfolio at **[acidmkt.com/portafolio-web](https://www.acidmkt.com/portafolio-web)**.
+- **Ryallgraber.com** *(client since 2020 · 5+ year engagement)* — Website, digital strategy, automations, and hands-on training in cutting-edge AI tooling for day-to-day operations.
 - **Nova CRM** *(with Osuna AI)* — Multi-tenant SaaS on **NocoBase + PostgreSQL**, WhatsApp chatbot via **Baileys**, BYOK across 8 AI providers, 10 industry templates, 4 pricing tiers.
-- **Terranova Hub** *(Punta Cana)* — CRM + AI WhatsApp bot for a pool company: contact management, Grok-powered quoting, media hub, financial tracker, referral engine, bilingual ES/EN.
+- **Terranova Hub** *(Pazos Holding · Dominican Republic)* — CRM + AI WhatsApp bot originally built for Terranova (Punta Cana) and now supporting **multiple verticals under Pazos Holding**. Contact management, Grok-powered quoting, media hub, financial tracker, referral engine, bilingual ES/EN.
 - **Hotel Melanie** *(melanie.mx)* — Full redesign on **Next.js 16 + Sanity CMS v4** for a 30-year-old boutique hotel in Tepic, Nayarit.
-- **ACID MKT** — My own digital marketing studio based in Mérida, serving clients nationally (web, SEO, branding, social media).
 
 ---
 
@@ -66,7 +67,7 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 **Data & infra**  `PostgreSQL` · `Supabase` · `SQLite` · `Vercel` · `Hetzner` · `Docker` · `PM2` · `GitHub Actions` · `GitHub Projects`
 
-**Messaging & AI**  `Baileys (WhatsApp)` · `Go bridges` · `Grok (x.ai)` · `Claude` · `Claude Code` · `Cursor` · `v0`
+**Messaging & AI**  `OpenAI Platform` · `ChatGPT` · `Claude` · `Grok (x.ai)` · `Claude Code` · `Cursor` · `GitHub Copilot` · `v0` · `Baileys (WhatsApp)` · `Go bridges`
 
 ---
 
