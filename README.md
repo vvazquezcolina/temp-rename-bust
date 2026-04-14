@@ -30,7 +30,7 @@ That body of automation work is what got me promoted in **December 2025** to **T
 
 ---
 
-## Side work
+## Beyond Mandala
 
 - **[ACID MKT](https://www.acidmkt.com/)** *(my own agency, Cancún · founded 2020)* — Digital marketing studio serving clients nationally across Mexico (web, SEO, branding, social media). Full portfolio at **[acidmkt.com/portafolio-web](https://www.acidmkt.com/portafolio-web)**.
 - **Ryallgraber.com** *(client since 2020 · 5+ year engagement)* — Website, digital strategy, automations, and hands-on training in cutting-edge AI tooling for day-to-day operations.
