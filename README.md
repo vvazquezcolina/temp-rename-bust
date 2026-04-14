@@ -1,49 +1,88 @@
-## Hi, I'm Victor Vazquez 
+# Victor Vazquez
 
-**A marketer who builds with AI.** Digital strategist at [MandalaTickets](https://mandalatickets.com), founder of [ACID MKT](https://acidmkt.com), based in Cancún, Mexico.
+**Ecommerce & Web Manager** · **Tech Innovation & Project Management** · **Workflow Optimization** · **Vibe Coding Enthusiast**
 
-I build and operate the full stack — from SEO, analytics and paid media down to the Next.js apps, WhatsApp bots and internal CRMs that power the businesses I work for. My edge isn't being the best engineer in the room; it's understanding the commercial side well enough to build exactly what moves the metric.
+Cancún, México · remote-first · digital nomad
+
+> Specialist in tech innovation and e-commerce platform management. I connect business goals with scalable technical solutions — optimizing day-to-day operations and building efficient digital ecosystems.
 
 ---
 
-### What I'm working on
+## Currently
 
-- **MandalaTickets Bot + CRM** — AI customer-service bot (Grok, Claude) with a React dashboard, a Go WhatsApp bridge and SQLite, handling nightlife inquiries across five Mexican cities.
-- **Nova CRM** *(with Osuna AI)* — Multi-tenant SaaS on NocoBase + Postgres, WhatsApp chatbot via Baileys, BYOK across eight AI providers.
-- **Mandala CMS Monorepo** — Turborepo with eight brand sites deployed to Vercel via GitHub Actions.
-- **Hotel Melanie** *(melanie.mx)* — Full redesign on Next.js 16 + Sanity CMS for a 30-year-old boutique hotel in Nayarit.
-- **Terranova Hub** — CRM + bot for a pool company in Punta Cana: Baileys, Node/TS, SQLite, AI quoting and media hub.
+**Tech Innovation & Project Manager** at **Mandala Group** *(7+ years with the group)*.
 
-### Tech I reach for
+Leading the migration of our traditional project-management tooling into a centralized **GitHub Projects** ecosystem — unifying tasks across multiple repositories and sharply improving delivery visibility and cadence.
 
-| Area | Stack |
+---
+
+## Selected impact
+
+| Where | Role | Result |
+|---|---|---|
+| **Mandala Group** · Cancún | Ecommerce & Web Manager | **+92 %** annual online sales after a full site and ad-campaign relaunch |
+| **Meshico Group** · Dubai | Social Media & E-commerce Manager | **+15 %** reservations via CRM automation and SevenRooms data; media deals for Expo 2020 Dubai |
+| **Amstar DMC** · Cancún | E-Commerce Data Analyst | **+35 %** monthly organic visibility via an SEO relaunch |
+
+---
+
+## What I focus on
+
+- **Ecommerce strategy** — product, campaigns, CRO, analytics
+- **Tech innovation** — evaluating and bringing modern stack into day-to-day operations
+- **Project management** — GitHub Projects, Organizations, cross-repo workflows
+- **Workflow optimization** — AI-assisted automation that removes operational friction
+- **Vibe coding** — shipping creative products with Claude Code, Cursor and v0
+- **Mobile game dev** — a side-track where logic meets creativity
+
+---
+
+## Stack
+
+**Commerce & data**  `Ecommerce` · `SEO` · `GA4` · `GSC` · `Power BI` · `Meta Ads` · `Google Ads` · `Google Sheets API`
+
+**Build**  `Next.js` · `React` · `TypeScript` · `Tailwind` · `shadcn/ui` · `Node.js` · `Express`
+
+**Data & infra**  `PostgreSQL` · `Supabase` · `SQLite` · `Vercel` · `Docker` · `GitHub Actions`
+
+**AI-assisted**  `Claude Code` · `Cursor` · `v0`
+
+---
+
+## Languages
+
+| | |
 |---|---|
-| Frontend | Next.js, React, TypeScript, Tailwind, shadcn/ui, Framer Motion |
-| Backend | Node.js, Express, NestJS, tsx/esbuild, Supabase, Prisma, PostgreSQL, SQLite |
-| Mobile / PWA | React Native (Expo), Next.js PWA with offline support |
-| Messaging / AI | Baileys (WhatsApp), Go bridges, Grok (x.ai), Claude, OpenAI |
-| Marketing / Data | GA4, Google Search Console, Meta Ads, Google Ads, Google Sheets API |
-| DevOps | Vercel, Hetzner VPS, Docker, PM2, GitHub Actions |
-
-### How I work
-
-- **Ship fast, then measure.** Most of my projects go from idea to production in days, not weeks.
-- **Boring stacks by default.** I reach for proven tools unless there's a real reason not to.
-- **Operator mindset.** Every tool I build has to pay rent — in revenue, hours saved, or a better customer experience.
-- **AI-assisted, human-owned.** I use Claude, Cursor and v0 heavily, but I read every line that ships.
-
-### Selected public work
-
-- **[vcc-march-06](https://github.com/vvazquezcolina/vcc-march-06)** — Interactive festival builder: design a lineup, sculpt a 3D mainstage with React Three Fiber, pick a venue on Google Maps, and generate a poster. Next.js 15 + Three.js + Zustand. [Live](https://vcc-march-06.vercel.app)
-- **[coffee-rush](https://github.com/vvazquezcolina/coffee-rush)** — Retro arcade canvas game built for fun: lanes, boss battles, power-ups, zero dependencies. [Live](https://coffee-rush.vercel.app)
-
-### Get in touch
-
-- Location: Cancún, Quintana Roo — open to remote
-- LinkedIn: [linkedin.com/in/vvazquezcolina](https://www.linkedin.com/in/vvazquezcolina/)
-- Agency: [acidmkt.com](https://acidmkt.com)
-- Reach out via GitHub or the contact form on the agency site
+| Español | Native |
+| English | Full professional |
+| Français | Full professional |
+| Português | Elementary |
 
 ---
 
-*Thanks for stopping by.*
+## Education
+
+- **MBA & Máster en Digital Business** — ENEB, Escuela de Negocios Europea de Barcelona *(2025)*
+- **Ing. Innovación y Desarrollo Empresarial** — Universidad Tecnológica de Cancún *(2014–2017)*
+- **Business & International Marketing** — Haute École de la Province de Liège, Belgium *(2015–2016)*
+- **Business English** — University of the Incarnate Word, USA *(2016)*
+
+---
+
+## Featured public projects
+
+**[vcc-march-06](https://github.com/vvazquezcolina/vcc-march-06)** — Interactive festival builder: design a lineup, sculpt a 3D mainstage with React Three Fiber, pick a venue on Google Maps, export a poster. → [Live demo](https://vcc-march-06.vercel.app)
+
+**[coffee-rush](https://github.com/vvazquezcolina/coffee-rush)** — Zero-dependency retro 2D arcade built on the Canvas API. → [Live demo](https://coffee-rush.vercel.app)
+
+---
+
+## Let's talk
+
+- **Email** — vvazquezcolina@gmail.com
+- **LinkedIn** — [linkedin.com/in/vvazquezcolina](https://www.linkedin.com/in/vvazquezcolina/)
+- **Agency** — [acidmkt.com](https://acidmkt.com)
+
+---
+
+*Always with a good cup of specialty coffee in hand.*
