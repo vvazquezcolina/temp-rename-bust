@@ -36,6 +36,7 @@ That body of automation work is what got me promoted in **December 2025** to **T
 - **Ryallgraber.com** *(client since 2020 · 5+ year engagement)* — Website, digital strategy, automations, and hands-on training in cutting-edge AI tooling for day-to-day operations.
 - **Nova CRM** *(with Osuna AI)* — Multi-tenant SaaS on **NocoBase + PostgreSQL**, WhatsApp chatbot via **Baileys**, BYOK across 8 AI providers, 10 industry templates, 4 pricing tiers.
 - **Terranova Hub** *(Pazos Holding · Dominican Republic)* — CRM + AI WhatsApp bot originally built for Terranova (Punta Cana) and now supporting **multiple verticals under Pazos Holding**. Contact management, Grok-powered quoting, media hub, financial tracker, referral engine, bilingual ES/EN.
+- **La Groomería** — Full digital operation for a pet grooming business: public site (map + WhatsApp contact) and a **NestJS + Docker** admin system for services, pets and appointments.
 - **Hotel Melanie** *(melanie.mx)* — Full redesign on **Next.js 16 + Sanity CMS v4** for a 30-year-old boutique hotel in Tepic, Nayarit.
 
 ---
